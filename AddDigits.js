@@ -8,5 +8,6 @@
 
  /**
   * First check if the number is less than 10.
+  * If it is, then we return the number.
   * 
   */
