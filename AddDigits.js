@@ -7,5 +7,6 @@
  };
 
  /**
+  * First check if the number is less than 10.
   * 
   */
